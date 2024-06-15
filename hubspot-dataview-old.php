@@ -639,5 +639,5 @@ function sanitizeForCSV(input) {
 }
     </script>
 </body>
-<!-- my pat-na1-3f5bf83f-bbf0-4d66-957e-86ef845ce4ba -->
+<!-- my API KEY -->
 </html>
